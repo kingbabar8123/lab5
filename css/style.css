@@ -1,0 +1,130 @@
+body {
+	background-color: PapayaWhip;
+	font-family: Sofia, Verdana, sans-serif;
+}
+body.resume {
+	background-color: white;
+}
+.nav {
+	border: 1em;
+	border-width: 1em 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: green;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.2em;
+}
+.nav li {
+	display:inline;
+}
+.nav a {
+	display:inline-block;
+	padding:1.5em;
+}
+.list {
+	text-align: center;
+}
+.list-small {
+	font-size: 1.3em;
+	font-family: "Times New Roman";
+}
+p {
+	padding: .5em;
+	font-size: 1.5em;
+}
+p.small {
+	font-size: 1.1em;
+}
+p.color {
+	color: red;
+}
+p.center {
+	text-align: center;
+}
+p.outset {
+	border: outset blue;
+}
+div.box {
+	margin: auto;
+	border: .5em solid green;
+	width: 25em;
+}		
+h1 {
+	color: red;
+	font-weight: bold;
+	font-size: 1.6em;
+	text-align: center;
+	text-decoration: underline;
+	padding: 1.1em;
+}
+h1.background {
+	margin: auto;
+	border: .5em solid blue;
+	background-color: green;
+	width: 25em;
+}
+h1.background1 {
+	margin: auto;
+	border: .5em solid orange;
+	background-color: black;
+	width: 25em;
+}
+.resume {
+	color: black;
+	font-weight: bold;
+}
+h2, h3, h4 {
+	color: brown;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.8em;
+	padding: 1.1em;
+	text-align: center;
+}
+.resume-h2-4 {
+	text-decoration: underline;
+	color: black;
+	font-weight: bold;
+}
+.resume-center-h2-4 {
+	text-align: center;
+}
+img {
+	display: block;
+	margin: 0 auto;
+	padding: 1em;
+}
+img.float-right {
+	float: right;
+	margin-right: 10px;
+}
+img.float-left {
+	float: left;
+}
+iframe.center {
+	display: block;
+	margin: 0px auto;
+	padding: 1em;
+}
+li {
+	font-size: 1.3em;
+	margin-left: 1em;
+	list-style-type: disc;
+}
+li.dog {
+	color: blue;
+	list-style-type: square;
+}
+.column1 {
+	float: right;
+	width: 50em;
+	margin: 1em;
+}
+.column2 {
+	float: left;
+	width: 20em;
+	margin: 1em;
+}
+
+	
