@@ -13,14 +13,12 @@ th {
 	border-color: black;
 	font-size: 1.5em;
 }
-th.empty {
-	empty-cells: show;
-}
 table {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 	border-collapse: collapse;
+	empty-cells: hide;
 }
 td {
 	border-style: solid;
