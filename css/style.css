@@ -1,6 +1,7 @@
 body {
-	background-color: OldLace;
+	background-color: Black;
 	font-family: "Times New Roman", Verdana, sans-serif;
+	color: green;
 }
 h1 {
 	text-align: center;
@@ -10,7 +11,7 @@ h1 {
 }
 th {
 	border-style: solid;
-	border-color: black;
+	border-color: white;
 	font-size: 1.5em;
 }
 table {
@@ -21,7 +22,7 @@ table {
 }
 td {
 	border-style: solid;
-	border-color: black;
+	border-color: white;
 	font-size: 1.5em;
 }
 td.att {
