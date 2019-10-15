@@ -18,13 +18,23 @@ table {
 	margin-left: auto;
 	margin-right: auto;
 	border-collapse: collapse;
-	empty-cells: hide;
 }
 td {
 	border-style: solid;
 	border-color: black;
 	font-size: 1.5em;
 }
+td.att {
+	font-weight: bold;
+}
 sup {
 	font-size: .5em;
+}
+p {
+	margin: 0;
+	padding: 0;
+	text-decoration: underline;
+}
+th.empty {
+	border-style: none;
 }
