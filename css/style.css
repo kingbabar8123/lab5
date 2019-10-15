@@ -1,5 +1,5 @@
 body {
-	background-color: LightSeaGreen;
+	background-color: OldLace;
 	font-family: "Times New Roman", Verdana, sans-serif;
 }
 h1 {
@@ -17,8 +17,6 @@ th.empty {
 	empty-cells: show;
 }
 table {
-	border-style: solid;
-	border-color: blue;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
