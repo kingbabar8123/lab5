@@ -5,13 +5,13 @@ body {
 h1 {
 	text-align: center;
 	text-decoration: underline;
-	font-size: 8em;
+	font-size: 5em;
 	font-weight: bold;
 }
 th {
 	border-style: solid;
 	border-color: black;
-	font-size: 3em;
+	font-size: 1.5em;
 }
 th.empty {
 	empty-cells: show;
@@ -25,7 +25,7 @@ table {
 td {
 	border-style: solid;
 	border-color: black;
-	font-size: 3em;
+	font-size: 1.5em;
 }
 sup {
 	font-size: .5em;
