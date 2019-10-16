@@ -6,13 +6,13 @@ body {
 h1 {
 	text-align: center;
 	text-decoration: underline;
-	font-size: 5em;
+	font-size: 3em;
 	font-weight: bold;
 }
 th {
 	border-style: solid;
 	border-color: white;
-	font-size: 1.5em;
+	font-size: 1em;
 }
 table {
 	text-align: center;
@@ -23,7 +23,7 @@ table {
 td {
 	border-style: solid;
 	border-color: white;
-	font-size: 1.5em;
+	font-size: 1em;
 }
 td.att {
 	font-weight: bold;
