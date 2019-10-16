@@ -1,5 +1,5 @@
 body {
-	background-color: Black;
+	background-color: White;
 	font-family: "Times New Roman", Verdana, sans-serif;
 	color: green;
 }
@@ -11,7 +11,7 @@ h1 {
 }
 th {
 	border-style: solid;
-	border-color: white;
+	border-color: black;
 	font-size: 1em;
 }
 table {
@@ -23,7 +23,7 @@ table {
 }
 td {
 	border-style: solid;
-	border-color: white;
+	border-color: black;
 	font-size: 1em;
 }
 td.att {
